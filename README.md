@@ -3,7 +3,7 @@
 Aavash Subedi<sup>1</sup>, Tim Reichelt<sup>1</sup>, Christopher Williams<sup>1</sup>, Philip Stier<sup>1</sup>, Yee Whye Teh<sup>1</sup>, Saifuddin Syed<sup>2</sup>  
 <sup>1</sup>University of Oxford &nbsp;&nbsp;&nbsp; <sup>2</sup>UBC
 
-Official Implementation of "Steering Diffusion Models to Rare Events with Sequential Monte Carlo" (fill in)
+Official Implementation of "Steering Diffusion Models to Rare Events with Sequential Monte Carlo"
 
 Code will be released soon!
 
